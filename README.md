@@ -117,6 +117,8 @@ These strings can be passed instead of the options object:
 
 [Read more about options.](https://github.com/jankovicsandras/imagetracerjs/blob/master/options.md)
 
+Also you can try the different profiles with your own image using this [Observable Notebook](https://observablehq.com/@john-guerra/rasterize-image)
+
 ---
 
 ## Examples
